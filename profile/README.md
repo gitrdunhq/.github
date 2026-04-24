@@ -22,8 +22,8 @@ Everything here is built from real projects, tested in real environments, and do
  ║   EDMONTON, ALBERTA      ║
  ║                          ║
  ║   AWS ─── CLOUD ARCH     ║
- ║   AI  ─── AGENTIC ENG   ║
- ║   OPS ─── INFRA AUTO    ║
+ ║   AI  ─── AGENTIC ENG    ║
+ ║   OPS ─── INFRA AUTO     ║
  ║                          ║
  ║   "Getting IT Done"      ║
  ╚══════════════════════════╝
