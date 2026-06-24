@@ -39,8 +39,8 @@ Everything here is built from real projects, tested in real environments, and do
 
 | | Repository | What it does |
 |---|---|---|
-| **`01`** | [**eedom**](https://github.com/gitrdunhq/eedom) | Deterministic code & dependency review for CI. 15 plugins, zero LLM in the decision path. |
-| **`02`** | [**eedom-community-rules**](https://github.com/gitrdunhq/eedom-community-rules) | Community rules and configs for eedom. Drop-in scanner policies. |
+| **`01`** | [**caliper**](https://github.com/gitrdunhq/eedom) | Deterministic code & dependency review for CI. 19 plugins, zero LLM in the decision path. |
+| **`02`** | [**caliper-community-rules**](https://github.com/gitrdunhq/eedom-community-rules) | Community rules and configs for eedom. Drop-in scanner policies. |
 
 ---
 
